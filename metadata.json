@@ -1,0 +1,6 @@
+{
+  "name": "GST Notice Judgement Finder & Legal Advisor",
+  "description": "Comprehensive GST Section-wise Notice Analyzer with High Court & Supreme Court Favourable & Adverse Judgements, Reply Generator & Case Law Advisor by CA Amar Nath Singla (9810059721).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
